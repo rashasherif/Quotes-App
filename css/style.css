@@ -1,0 +1,35 @@
+
+.home{
+    background-image: linear-gradient(rgb(64, 64, 116),#ffc0cb,hsl(285, 15%, 47%));
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+
+
+h1 {
+    font-size: 80px;
+    font-family: Impact;
+}
+
+button {
+    width: 250px;
+    height: 80px;
+    background-color: rgb(61, 44, 71);
+    color: white;
+}
+
+p{
+    font-size: 35px;
+}
+
+button:hover{
+    background-color: rgb(111, 0, 128);
+}
+h3{
+    text-align: center;
+}
